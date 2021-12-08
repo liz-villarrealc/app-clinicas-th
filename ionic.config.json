@@ -1,0 +1,7 @@
+{
+  "name": "clinicastehuacan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
